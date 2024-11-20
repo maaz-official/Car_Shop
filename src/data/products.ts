@@ -8,9 +8,9 @@ const products: Product[] = [
     description: "A reliable and fuel-efficient compact sedan with advanced safety features.",
     category: "Sedan",
     images: [
-      "https://example.com/images/toyota-corolla-1.jpg",
-      "https://example.com/images/toyota-corolla-2.jpg",
-      "https://example.com/images/toyota-corolla-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 12,
     rating: 4.5,
@@ -32,9 +32,9 @@ const products: Product[] = [
     description: "A powerful and iconic sports car with cutting-edge technology.",
     category: "Sports Car",
     images: [
-      "https://example.com/images/ford-mustang-1.jpg",
-      "https://example.com/images/ford-mustang-2.jpg",
-      "https://example.com/images/ford-mustang-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 5,
     rating: 4.8,
@@ -56,9 +56,9 @@ const products: Product[] = [
     description: "An all-electric sedan with autopilot capabilities and premium features.",
     category: "Electric",
     images: [
-      "https://example.com/images/tesla-model-3-1.jpg",
-      "https://example.com/images/tesla-model-3-2.jpg",
-      "https://example.com/images/tesla-model-3-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 8,
     rating: 4.9,
@@ -80,9 +80,9 @@ const products: Product[] = [
     description: "A spacious and versatile SUV with excellent fuel efficiency.",
     category: "SUV",
     images: [
-      "https://example.com/images/honda-crv-1.jpg",
-      "https://example.com/images/honda-crv-2.jpg",
-      "https://example.com/images/honda-crv-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 10,
     rating: 4.6,
@@ -104,9 +104,9 @@ const products: Product[] = [
     description: "A durable and high-performing pickup truck for tough jobs.",
     category: "Truck",
     images: [
-      "https://example.com/images/chevrolet-silverado-1.jpg",
-      "https://example.com/images/chevrolet-silverado-2.jpg",
-      "https://example.com/images/chevrolet-silverado-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 7,
     rating: 4.4,
@@ -128,9 +128,9 @@ const products: Product[] = [
     description: "A luxury SUV with advanced technology and superior comfort.",
     category: "Luxury SUV",
     images: [
-      "https://example.com/images/bmw-x5-1.jpg",
-      "https://example.com/images/bmw-x5-2.jpg",
-      "https://example.com/images/bmw-x5-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 4,
     rating: 4.7,
@@ -152,9 +152,9 @@ const products: Product[] = [
     description: "A premium sedan with a sleek design and top-notch performance.",
     category: "Luxury Sedan",
     images: [
-      "https://example.com/images/audi-a4-1.jpg",
-      "https://example.com/images/audi-a4-2.jpg",
-      "https://example.com/images/audi-a4-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 6,
     rating: 4.6,
@@ -176,9 +176,9 @@ const products: Product[] = [
     description: "A rugged off-road SUV with iconic styling and unmatched capability.",
     category: "Off-Road",
     images: [
-      "https://example.com/images/jeep-wrangler-1.jpg",
-      "https://example.com/images/jeep-wrangler-2.jpg",
-      "https://example.com/images/jeep-wrangler-3.jpg"
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg",
+      "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mikebirdy-120049.jpg&fm=jpg"
     ],
     stock: 3,
     rating: 4.3,
